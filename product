@@ -1,0 +1,12 @@
+{
+    "name": "TypeDSDL",
+    "version": "0.1.0",
+    "externals": ["SDL2-CS.dll"],
+    "dependencies": [
+        "TypeOCore-0.1.0",
+        "TypeODesktop-0.1.0",
+        "TypeOSDL-0.1.0",
+        "TypeD-0.1.0"
+    ],
+    "type" : "TypeDModule"
+}
